@@ -37,7 +37,8 @@ const allBtn=document.querySelectorAll("button")
   h2.innerText = "Last button was clicked"
   lastButton.textContent="Click"
   console.log (
-    5
+    5,
+    45454
   )
   // let i=0
   // while (i<allBtn.length){
