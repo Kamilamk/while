@@ -36,32 +36,17 @@ const allBtn=document.querySelectorAll("button")
   const h2=document.querySelector("h2")
   h2.innerText = "Last button was clicked"
   lastButton.textContent="Click"
-  // allBtn[0].textContent="Click"
-  // allBtn[1].textContent="Click"
-  // allBtn[2].textContent="Click"
-  // allBtn[3].textContent="Click"
-  // allBtn[4].textContent="Click"
-  // allBtn[5].textContent="Click"
-  // allBtn[6].textContent="Click"
-  // allBtn[7].textContent="Click"
-  // allBtn[8].textContent="Click"
-  // allBtn[9].textContent="Click"
-  // allBtn[10].textContent="Click" 
-
-
-
+  console.log (
+    5
+  )
   // let i=0
   // while (i<allBtn.length){
   //   allBtn[i].textContent="Click"; 
   //   console.log (i)
   //   i++
-
-
   // for (let i=0; i<allBtn.length; i++) {
   //   allBtn[i].textContent="Click"
   // }
-
-
 })
   // lastButton.textContent="Click"
  });
